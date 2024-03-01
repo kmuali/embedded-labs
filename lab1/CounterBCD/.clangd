@@ -1,0 +1,5 @@
+CompileFlags:
+  Add: -I/usr/avr/include
+  Add: -Os
+  Add: DF_CPU=16000000UL
+  Add: -mmcu=atmega32
